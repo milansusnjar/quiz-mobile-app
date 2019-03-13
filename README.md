@@ -25,3 +25,12 @@ Question are provided from https://opentdb.com/.
 
 #### Code formatting
 - `prettier`
+
+
+#### Screenshots
+
+<p align="center">
+  <img alt="Start quiz" src="https://vgy.me/JdySH9.png" width="200" />
+  <img alt="Play" src="https://vgy.me/4qJvQW.png" width="200" /> 
+  <img alt="See results" src="https://vgy.me/uGTGl6.png" width="200" />
+</p>
